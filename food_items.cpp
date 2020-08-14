@@ -16,7 +16,7 @@ main()
         break;
         case 5: printf("masala dosa \n ₹139");
         break;
-        default: ("you have to  enter valid no. ");
+        default: printf("you have to  enter valid no. ");
         
     }
 }
